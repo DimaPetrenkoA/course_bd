@@ -1,0 +1,48 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.WindowsDesktop">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <UseWPF>true</UseWPF>
+    <UseWindowsForms>true</UseWindowsForms>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="1111111111111111111111232323232323.jpg" />
+    <None Remove="exit.png" />
+    <None Remove="left.png" />
+    <None Remove="left2.png" />
+    <None Remove="loginfon.jpg" />
+    <None Remove="m1000x1000.jpg" />
+    <None Remove="minimize.png" />
+    <None Remove="query.png" />
+    <None Remove="right.png" />
+    <None Remove="search2.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Bogus" Version="29.0.2" />
+    <PackageReference Include="ClosedXML" Version="0.95.2" />
+    <PackageReference Include="LiveCharts.Wpf" Version="0.9.7" />
+    <PackageReference Include="Microsoft.Office.Interop.Excel" Version="15.0.4795.1000" />
+    <PackageReference Include="Npgsql" Version="4.1.3.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="1111111111111111111111232323232323.jpg" />
+    <Resource Include="left.png" />
+    <EmbeddedResource Include="minimize.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="exit.png" />
+    <Resource Include="left2.png" />
+    <Resource Include="loginfon.jpg" />
+    <Resource Include="m1000x1000.jpg" />
+    <Resource Include="minimize.png" />
+    <Resource Include="query.png" />
+    <Resource Include="right.png" />
+    <Resource Include="search2.png" />
+  </ItemGroup>
+
+</Project>

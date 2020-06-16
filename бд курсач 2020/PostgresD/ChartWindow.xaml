@@ -1,0 +1,21 @@
+﻿<Window
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:BDcource2020"
+        xmlns:Wpf="clr-namespace:LiveCharts.Wpf;assembly=LiveCharts.Wpf" x:Class="BDcource2020.ChartWindow"
+        mc:Ignorable="d"
+        WindowStartupLocation="CenterScreen"
+
+        Title="ChartWindow" Height="450" Width="895">
+    <DockPanel LastChildFill="True" HorizontalAlignment="Stretch" VerticalAlignment="Stretch">
+        <Grid DockPanel.Dock="Left" Width="270">
+            <Wpf:PieChart Name="pieChart1" Margin="0,0,0,10"/>
+        </Grid>
+        <Grid HorizontalAlignment="Stretch" VerticalAlignment="Stretch">
+            <Wpf:CartesianChart  HorizontalAlignment="Stretch" VerticalAlignment="Stretch" Name="cartesianChart1"/>
+            <TextBox x:Name="tb_year" HorizontalAlignment="Left" Margin="580,10,0,0" Text="2000" TextWrapping="NoWrap" VerticalAlignment="Top" Width="35" KeyUp="TextBox_KeyUp"/>
+        </Grid>
+    </DockPanel>
+</Window>

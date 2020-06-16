@@ -1,0 +1,66 @@
+﻿<Window x:Class="BDcource2020.QueryWindow"
+       xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:BDcource2020"
+        xmlns:forms="clr-namespace:System.Windows.Forms;assembly=System.Windows.Forms"
+        mc:Ignorable="d"
+         WindowStyle="None"
+        FontFamily="Century Gothic"
+        ResizeMode="NoResize"
+        FontSize="18"
+        WindowStartupLocation = "CenterScreen"
+        Title="QueryWindow" Height="479"
+        Width="918"
+        Background="#FFCF2222">
+    <DockPanel LastChildFill="True">
+        <Grid DockPanel.Dock="Top" Height="40" Background="#FFAA109C" MouseDown="Move_Window">
+            <Button Name="btn_exit" Margin="0,0,0,0" Width="36" Style="{DynamicResource MyButtonStyle}" Background="#00000000" Click="btn_exit_Click" HorizontalAlignment="Right">
+                <Image Source="exit.png"></Image>
+            </Button>
+            <Button Name="btn_minimize" Margin="0,0,36,0" Width="36" Style="{DynamicResource MyButtonStyle}" Background="#00000000" Click="btn_minimize_Click" HorizontalAlignment="Right">
+                <Image Source="minimize.png"></Image>
+            </Button>
+            <TextBlock HorizontalAlignment="Left" Margin="10,0,0,0" Text="Запросы" TextWrapping="Wrap" VerticalAlignment="Center" Foreground="White"/>
+            <Button x:Name="btn_excel" Content="Экспорт в Excel" HorizontalContentAlignment="Left" Style="{DynamicResource MyButtonStyle}" Background="#FFAA109C" Foreground="White" Click="btn_excel_Click" Margin="680,0,84,0"/>
+        </Grid>
+        <Grid Width="240" DockPanel.Dock="Right" Background="#FF141948">
+            <ScrollViewer>
+                <StackPanel>
+                    <Button Name="btn_orders" Content="  Заказы" HorizontalContentAlignment="Left" HorizontalAlignment="Left" Style="{DynamicResource MyButtonStyle}" Width="223" Height="40" Background="#FFAA109C" Foreground="White" Click="btn_orders_Click"/>
+                    <Button Name="btn_plants" Content="  Заводы" HorizontalContentAlignment="Left" HorizontalAlignment="Left" Style="{DynamicResource MyButtonStyle}" Width="222" Height="40" Background="#FFAA109C" Foreground="White" Click="btn_plants_Click" />
+                    <Button Name="btn_client" Content="  Заказчики" HorizontalContentAlignment="Left" HorizontalAlignment="Left" Style="{DynamicResource MyButtonStyle}" Width="221" Height="40"  Background="#FFAA109C" Foreground="White" Click="btn_client_Click" />
+                    <Button Name="btn_orders_bigger_V" Content="  Заказы объём больше" HorizontalContentAlignment="Left" HorizontalAlignment="Left" Style="{DynamicResource MyButtonStyle}" Width="224" Height="40"  Background="#FFAA109C" Foreground="White" Click="btn_orders_bigger_V_Click" />
+                    <Button Name="btn_orders_smaller_V" Content="  Заказы объём меньше" HorizontalContentAlignment="Left" HorizontalAlignment="Left" Style="{DynamicResource MyButtonStyle}" Width="222" Height="40"  Background="#FFAA109C" Foreground="White" Click="btn_orders_smaller_V_Click"/>
+                    <Button Name="btn_orders_by_last_months" Content="  Заказы за пр. месяцы" HorizontalContentAlignment="Left" HorizontalAlignment="Left" Style="{DynamicResource MyButtonStyle}" Width="222" Height="40"  Background="#FFAA109C" Foreground="White" Click="btn_orders_by_last_months_Click" />
+                    <Button Name="btn_orders_by_last_years" Content="  Заказы за пр. года" HorizontalContentAlignment="Left" HorizontalAlignment="Left" Style="{DynamicResource MyButtonStyle}" Width="219" Height="40"  Background="#FFAA109C" Foreground="White" Click="btn_orders_by_last_years_Click" />
+                    <Button Name="btn_plants_wiithout_orders" Content="  Заводы без заказов" HorizontalContentAlignment="Left" HorizontalAlignment="Left" Style="{DynamicResource MyButtonStyle}" Width="221" Height="40"  Background="#FFAA109C" Foreground="White" Click="btn_plants_wiithout_orders_Click" />
+                    <Button Name="btn_clients_without_orders" Content="  Клиенты без заказов" HorizontalContentAlignment="Left" HorizontalAlignment="Left" Style="{DynamicResource MyButtonStyle}" Width="217" Height="40"  Background="#FFAA109C" Foreground="White" Click="btn_clients_without_orders_Click"/>
+                    <Button Name="btn_clients_without_orders_left_join" Content="  Клиенты без заказов v2" HorizontalContentAlignment="Left" HorizontalAlignment="Left" Style="{DynamicResource MyButtonStyle}" Width="223" Height="40"  Background="#FFAA109C" Foreground="White" Click="btn_clients_without_orders_left_join_Click"/>
+                    <Button Name="btn_avg_V_orders" Content="  ср. объём заказов"  HorizontalContentAlignment="Left" HorizontalAlignment="Left" Style="{DynamicResource MyButtonStyle}" Width="223" Height="40" Background="#FFAA109C" Foreground="White" Click="btn_avg_V_orders_Click"/>
+                    <Button Name="btn_sum_V_orders" Content="  сумма заказов"  HorizontalContentAlignment="Left" HorizontalAlignment="Left" Style="{DynamicResource MyButtonStyle}" Width="223" Height="40" Background="#FFAA109C" Foreground="White" Click="btn_sum_V_orders_Click"/>
+                    <Button Name="btn_orders_sum_V_bigger" Content="  заказы объём больше"  HorizontalContentAlignment="Left" HorizontalAlignment="Left" Style="{DynamicResource MyButtonStyle}" Width="223" Height="40" Background="#FFAA109C" Foreground="White" Click="btn_orders_sum_V_bigger_Click"/>
+                    <Button Name="btn_orders_V_fuels_like" Content="  заказы по топливу"  HorizontalContentAlignment="Left" HorizontalAlignment="Left" Style="{DynamicResource MyButtonStyle}" Width="223" Height="40" Background="#FFAA109C" Foreground="White" Click="btn_orders_V_fuels_like_Click"/>
+                    <Button Name="btn_orders_by_mounth_index" Content="  кол-во заказов за пр."  HorizontalContentAlignment="Left" HorizontalAlignment="Left" Style="{DynamicResource MyButtonStyle}" Width="223" Height="40" Background="#FFAA109C" Foreground="White" Click="btn_orders_by_mounth_index_Click"/>
+                    <Button Name="btn_avg_orders" Content="  ср. заказы"  HorizontalContentAlignment="Left" HorizontalAlignment="Left" Style="{DynamicResource MyButtonStyle}" Width="223" Height="40" Background="#FFAA109C" Foreground="White" Click="btn_avg_orders_Click"/>
+                    <Button Name="btn_avg_orders_bigger" Content="  ср. заказы больше"  HorizontalContentAlignment="Left" HorizontalAlignment="Left" Style="{DynamicResource MyButtonStyle}" Width="223" Height="40" Background="#FFAA109C" Foreground="White" Click="btn_avg_orders_bigger_Click"/>
+                    <Button Name="btn_avg_orders_bigger2" Content="  ср. заказы больше 2"  HorizontalContentAlignment="Left" HorizontalAlignment="Left" Style="{DynamicResource MyButtonStyle}" Width="223" Height="40" Background="#FFAA109C" Foreground="White" Click="btn_avg_orders_bigger2_Click"/>
+                    <Button Name="btn_podzapros_itog" Content="  итоговый подзапрос"  HorizontalContentAlignment="Left" HorizontalAlignment="Left" Style="{DynamicResource MyButtonStyle}" Width="223" Height="40" Background="#FFAA109C" Foreground="White" Click="btn_podzapros_itog_Click"/>
+                    <Button Name="btn_union" Content="  объединение"  HorizontalContentAlignment="Left" HorizontalAlignment="Left" Style="{DynamicResource MyButtonStyle}" Width="223" Height="40" Background="#FFAA109C" Foreground="White" Click="btn_union_Click"/>
+                    <Button Name="btn_in" Content="  покупатели недавно"  HorizontalContentAlignment="Left" HorizontalAlignment="Left" Style="{DynamicResource MyButtonStyle}" Width="223" Height="40" Background="#FFAA109C" Foreground="White" Click="btn_in_Click"/>
+                    <Button Name="btn_not_in" Content="  покупатели давно"  HorizontalContentAlignment="Left" HorizontalAlignment="Left" Style="{DynamicResource MyButtonStyle}" Width="223" Height="40" Background="#FFAA109C" Foreground="White" Click="btn_not_in_Click"/>
+                    <Button Name="btn_case" Content="  активные покупатели"  HorizontalContentAlignment="Left" HorizontalAlignment="Left" Style="{DynamicResource MyButtonStyle}" Width="223" Height="40" Background="#FFAA109C" Foreground="White" Click="btn_case_Click"/>
+                    <Button Name="btn_charts" Content="  графики"  HorizontalContentAlignment="Left" HorizontalAlignment="Left" Style="{DynamicResource MyButtonStyle}" Width="223" Height="40" Background="#FFAA109C" Foreground="White" Click="btn_charts_Click"/>
+
+                </StackPanel>
+            </ScrollViewer>
+        </Grid>
+        <WindowsFormsHost>
+            <forms:DataGridView x:Name="dataGridView1" ReadOnly="True">
+
+            </forms:DataGridView>
+        </WindowsFormsHost>
+    </DockPanel>
+
+</Window>

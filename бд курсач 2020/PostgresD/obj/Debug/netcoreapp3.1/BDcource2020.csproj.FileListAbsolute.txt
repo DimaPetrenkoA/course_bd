@@ -1,0 +1,148 @@
+C:\Users\Lnk\source\repos\BDcource2020\bin\Debug\netcoreapp3.1\BDcource2020.exe
+C:\Users\Lnk\source\repos\BDcource2020\bin\Debug\netcoreapp3.1\BDcource2020.deps.json
+C:\Users\Lnk\source\repos\BDcource2020\bin\Debug\netcoreapp3.1\BDcource2020.runtimeconfig.json
+C:\Users\Lnk\source\repos\BDcource2020\bin\Debug\netcoreapp3.1\BDcource2020.runtimeconfig.dev.json
+C:\Users\Lnk\source\repos\BDcource2020\bin\Debug\netcoreapp3.1\BDcource2020.dll
+C:\Users\Lnk\source\repos\BDcource2020\bin\Debug\netcoreapp3.1\BDcource2020.pdb
+C:\Users\Lnk\source\repos\BDcource2020\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\Lnk\source\repos\BDcource2020\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\Lnk\source\repos\BDcource2020\obj\Debug\netcoreapp3.1\BDcource2020_MarkupCompile.cache
+C:\Users\Lnk\source\repos\BDcource2020\obj\Debug\netcoreapp3.1\BDcource2020_MarkupCompile.lref
+C:\Users\Lnk\source\repos\BDcource2020\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\Lnk\source\repos\BDcource2020\obj\Debug\netcoreapp3.1\BDcource2020.g.resources
+C:\Users\Lnk\source\repos\BDcource2020\obj\Debug\netcoreapp3.1\BDcource2020.AssemblyInfoInputs.cache
+C:\Users\Lnk\source\repos\BDcource2020\obj\Debug\netcoreapp3.1\BDcource2020.AssemblyInfo.cs
+C:\Users\Lnk\source\repos\BDcource2020\obj\Debug\netcoreapp3.1\BDcource2020.dll
+C:\Users\Lnk\source\repos\BDcource2020\obj\Debug\netcoreapp3.1\BDcource2020.pdb
+C:\Users\Lnk\source\repos\BDcource2020\bin\Debug\netcoreapp3.1\Npgsql.dll
+C:\Users\Lnk\source\repos\BDcource2020\obj\Debug\netcoreapp3.1\BDcource2020.csproj.CopyComplete
+C:\Users\Lnk\source\repos\BDcource2020\obj\Debug\netcoreapp3.1\LoginWindow.g.cs
+C:\Users\Lnk\source\repos\BDcource2020\obj\Debug\netcoreapp3.1\LoginWindow.baml
+C:\Users\Lnk\source\repos\BDcource2020\obj\Debug\netcoreapp3.1\App.baml
+C:\Users\Lnk\source\repos\BDcource2020\obj\Debug\netcoreapp3.1\Buttons.baml
+C:\Users\Lnk\source\repos\BDcource2020\obj\Debug\netcoreapp3.1\datagrid.baml
+C:\Users\Lnk\source\repos\BDcource2020\obj\Debug\netcoreapp3.1\BDcource2020.csprojAssemblyReference.cache
+C:\Users\Lnk\source\repos\BDcource2020\bin\Debug\netcoreapp3.1\Bogus.dll
+C:\Users\Lnk\source\repos\BDcource2020\obj\Debug\netcoreapp3.1\QueryWindow.g.cs
+C:\Users\Lnk\source\repos\BDcource2020\obj\Debug\netcoreapp3.1\QueryWindow.baml
+C:\Users\Lnk\source\repos\BDcource2020\obj\Debug\netcoreapp3.1\MyDialog.g.cs
+C:\Users\Lnk\source\repos\BDcource2020\obj\Debug\netcoreapp3.1\MyDialog.baml
+C:\Users\Lnk\source\repos\BDcource2020\bin\Debug\netcoreapp3.1\Microsoft.Office.Interop.Excel.dll
+C:\Users\Lnk\source\repos\BDcource2020\bin\Debug\netcoreapp3.1\ClosedXML.dll
+C:\Users\Lnk\source\repos\BDcource2020\bin\Debug\netcoreapp3.1\DocumentFormat.OpenXml.dll
+C:\Users\Lnk\source\repos\BDcource2020\bin\Debug\netcoreapp3.1\ExcelNumberFormat.dll
+C:\Users\Lnk\source\repos\BDcource2020\obj\Debug\netcoreapp3.1\ChartWindow.g.cs
+C:\Users\Lnk\source\repos\BDcource2020\bin\Debug\netcoreapp3.1\LiveCharts.dll
+C:\Users\Lnk\source\repos\BDcource2020\bin\Debug\netcoreapp3.1\LiveCharts.Wpf.dll
+C:\Users\Lnk\source\repos\BDcource2020\obj\Debug\netcoreapp3.1\ChartWindow.baml
+C:\Users\dimap\OneDrive\Рабочий стол\бд курсач 2020\BDcource2020\bin\Debug\netcoreapp3.1\BDcource2020.exe
+C:\Users\dimap\OneDrive\Рабочий стол\бд курсач 2020\BDcource2020\bin\Debug\netcoreapp3.1\BDcource2020.deps.json
+C:\Users\dimap\OneDrive\Рабочий стол\бд курсач 2020\BDcource2020\bin\Debug\netcoreapp3.1\BDcource2020.runtimeconfig.json
+C:\Users\dimap\OneDrive\Рабочий стол\бд курсач 2020\BDcource2020\bin\Debug\netcoreapp3.1\BDcource2020.runtimeconfig.dev.json
+C:\Users\dimap\OneDrive\Рабочий стол\бд курсач 2020\BDcource2020\bin\Debug\netcoreapp3.1\BDcource2020.dll
+C:\Users\dimap\OneDrive\Рабочий стол\бд курсач 2020\BDcource2020\bin\Debug\netcoreapp3.1\BDcource2020.pdb
+C:\Users\dimap\OneDrive\Рабочий стол\бд курсач 2020\BDcource2020\bin\Debug\netcoreapp3.1\Bogus.dll
+C:\Users\dimap\OneDrive\Рабочий стол\бд курсач 2020\BDcource2020\bin\Debug\netcoreapp3.1\ClosedXML.dll
+C:\Users\dimap\OneDrive\Рабочий стол\бд курсач 2020\BDcource2020\bin\Debug\netcoreapp3.1\DocumentFormat.OpenXml.dll
+C:\Users\dimap\OneDrive\Рабочий стол\бд курсач 2020\BDcource2020\bin\Debug\netcoreapp3.1\ExcelNumberFormat.dll
+C:\Users\dimap\OneDrive\Рабочий стол\бд курсач 2020\BDcource2020\bin\Debug\netcoreapp3.1\LiveCharts.dll
+C:\Users\dimap\OneDrive\Рабочий стол\бд курсач 2020\BDcource2020\bin\Debug\netcoreapp3.1\LiveCharts.Wpf.dll
+C:\Users\dimap\OneDrive\Рабочий стол\бд курсач 2020\BDcource2020\bin\Debug\netcoreapp3.1\Microsoft.Office.Interop.Excel.dll
+C:\Users\dimap\OneDrive\Рабочий стол\бд курсач 2020\BDcource2020\bin\Debug\netcoreapp3.1\Npgsql.dll
+C:\Users\dimap\OneDrive\Рабочий стол\бд курсач 2020\BDcource2020\obj\Debug\netcoreapp3.1\BDcource2020.csprojAssemblyReference.cache
+C:\Users\dimap\OneDrive\Рабочий стол\бд курсач 2020\BDcource2020\obj\Debug\netcoreapp3.1\ChartWindow.g.cs
+C:\Users\dimap\OneDrive\Рабочий стол\бд курсач 2020\BDcource2020\obj\Debug\netcoreapp3.1\LoginWindow.g.cs
+C:\Users\dimap\OneDrive\Рабочий стол\бд курсач 2020\BDcource2020\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\dimap\OneDrive\Рабочий стол\бд курсач 2020\BDcource2020\obj\Debug\netcoreapp3.1\MyDialog.g.cs
+C:\Users\dimap\OneDrive\Рабочий стол\бд курсач 2020\BDcource2020\obj\Debug\netcoreapp3.1\QueryWindow.g.cs
+C:\Users\dimap\OneDrive\Рабочий стол\бд курсач 2020\BDcource2020\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\dimap\OneDrive\Рабочий стол\бд курсач 2020\BDcource2020\obj\Debug\netcoreapp3.1\BDcource2020_MarkupCompile.cache
+C:\Users\dimap\OneDrive\Рабочий стол\бд курсач 2020\BDcource2020\obj\Debug\netcoreapp3.1\BDcource2020_MarkupCompile.lref
+C:\Users\dimap\OneDrive\Рабочий стол\бд курсач 2020\BDcource2020\obj\Debug\netcoreapp3.1\App.baml
+C:\Users\dimap\OneDrive\Рабочий стол\бд курсач 2020\BDcource2020\obj\Debug\netcoreapp3.1\Buttons.baml
+C:\Users\dimap\OneDrive\Рабочий стол\бд курсач 2020\BDcource2020\obj\Debug\netcoreapp3.1\ChartWindow.baml
+C:\Users\dimap\OneDrive\Рабочий стол\бд курсач 2020\BDcource2020\obj\Debug\netcoreapp3.1\datagrid.baml
+C:\Users\dimap\OneDrive\Рабочий стол\бд курсач 2020\BDcource2020\obj\Debug\netcoreapp3.1\LoginWindow.baml
+C:\Users\dimap\OneDrive\Рабочий стол\бд курсач 2020\BDcource2020\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\dimap\OneDrive\Рабочий стол\бд курсач 2020\BDcource2020\obj\Debug\netcoreapp3.1\MyDialog.baml
+C:\Users\dimap\OneDrive\Рабочий стол\бд курсач 2020\BDcource2020\obj\Debug\netcoreapp3.1\QueryWindow.baml
+C:\Users\dimap\OneDrive\Рабочий стол\бд курсач 2020\BDcource2020\obj\Debug\netcoreapp3.1\BDcource2020.g.resources
+C:\Users\dimap\OneDrive\Рабочий стол\бд курсач 2020\BDcource2020\obj\Debug\netcoreapp3.1\BDcource2020.AssemblyInfoInputs.cache
+C:\Users\dimap\OneDrive\Рабочий стол\бд курсач 2020\BDcource2020\obj\Debug\netcoreapp3.1\BDcource2020.AssemblyInfo.cs
+C:\Users\dimap\OneDrive\Рабочий стол\бд курсач 2020\BDcource2020\obj\Debug\netcoreapp3.1\BDcource2020.csproj.CopyComplete
+C:\Users\dimap\OneDrive\Рабочий стол\бд курсач 2020\BDcource2020\obj\Debug\netcoreapp3.1\BDcource2020.dll
+C:\Users\dimap\OneDrive\Рабочий стол\бд курсач 2020\BDcource2020\obj\Debug\netcoreapp3.1\BDcource2020.pdb
+C:\Users\dimap\OneDrive\Рабочий стол\бд курсач 2020\PGadmin\obj\Debug\netcoreapp3.1\BDcource2020.csprojAssemblyReference.cache
+C:\Users\dimap\OneDrive\Рабочий стол\бд курсач 2020\PGadmin\obj\Debug\netcoreapp3.1\ChartWindow.g.cs
+C:\Users\dimap\OneDrive\Рабочий стол\бд курсач 2020\PGadmin\obj\Debug\netcoreapp3.1\LoginWindow.g.cs
+C:\Users\dimap\OneDrive\Рабочий стол\бд курсач 2020\PGadmin\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\dimap\OneDrive\Рабочий стол\бд курсач 2020\PGadmin\obj\Debug\netcoreapp3.1\MyDialog.g.cs
+C:\Users\dimap\OneDrive\Рабочий стол\бд курсач 2020\PGadmin\obj\Debug\netcoreapp3.1\QueryWindow.g.cs
+C:\Users\dimap\OneDrive\Рабочий стол\бд курсач 2020\PGadmin\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\dimap\OneDrive\Рабочий стол\бд курсач 2020\PGadmin\obj\Debug\netcoreapp3.1\BDcource2020_MarkupCompile.cache
+C:\Users\dimap\OneDrive\Рабочий стол\бд курсач 2020\PGadmin\obj\Debug\netcoreapp3.1\BDcource2020_MarkupCompile.lref
+C:\Users\dimap\OneDrive\Рабочий стол\бд курсач 2020\PGadmin\obj\Debug\netcoreapp3.1\BDcource2020.dll
+C:\Users\dimap\OneDrive\Рабочий стол\бд курсач 2020\PGadmin\obj\Debug\netcoreapp3.1\BDcource2020.pdb
+C:\Users\dimap\OneDrive\Рабочий стол\бд курсач 2020\PGadmin\bin\Debug\netcoreapp3.1\BDcource2020.exe
+C:\Users\dimap\OneDrive\Рабочий стол\бд курсач 2020\PGadmin\bin\Debug\netcoreapp3.1\BDcource2020.deps.json
+C:\Users\dimap\OneDrive\Рабочий стол\бд курсач 2020\PGadmin\bin\Debug\netcoreapp3.1\BDcource2020.runtimeconfig.json
+C:\Users\dimap\OneDrive\Рабочий стол\бд курсач 2020\PGadmin\bin\Debug\netcoreapp3.1\BDcource2020.runtimeconfig.dev.json
+C:\Users\dimap\OneDrive\Рабочий стол\бд курсач 2020\PGadmin\bin\Debug\netcoreapp3.1\BDcource2020.dll
+C:\Users\dimap\OneDrive\Рабочий стол\бд курсач 2020\PGadmin\bin\Debug\netcoreapp3.1\BDcource2020.pdb
+C:\Users\dimap\OneDrive\Рабочий стол\бд курсач 2020\PGadmin\bin\Debug\netcoreapp3.1\Bogus.dll
+C:\Users\dimap\OneDrive\Рабочий стол\бд курсач 2020\PGadmin\bin\Debug\netcoreapp3.1\ClosedXML.dll
+C:\Users\dimap\OneDrive\Рабочий стол\бд курсач 2020\PGadmin\bin\Debug\netcoreapp3.1\DocumentFormat.OpenXml.dll
+C:\Users\dimap\OneDrive\Рабочий стол\бд курсач 2020\PGadmin\bin\Debug\netcoreapp3.1\ExcelNumberFormat.dll
+C:\Users\dimap\OneDrive\Рабочий стол\бд курсач 2020\PGadmin\bin\Debug\netcoreapp3.1\LiveCharts.dll
+C:\Users\dimap\OneDrive\Рабочий стол\бд курсач 2020\PGadmin\bin\Debug\netcoreapp3.1\LiveCharts.Wpf.dll
+C:\Users\dimap\OneDrive\Рабочий стол\бд курсач 2020\PGadmin\bin\Debug\netcoreapp3.1\Microsoft.Office.Interop.Excel.dll
+C:\Users\dimap\OneDrive\Рабочий стол\бд курсач 2020\PGadmin\bin\Debug\netcoreapp3.1\Npgsql.dll
+C:\Users\dimap\OneDrive\Рабочий стол\бд курсач 2020\PGadmin\obj\Debug\netcoreapp3.1\App.baml
+C:\Users\dimap\OneDrive\Рабочий стол\бд курсач 2020\PGadmin\obj\Debug\netcoreapp3.1\Buttons.baml
+C:\Users\dimap\OneDrive\Рабочий стол\бд курсач 2020\PGadmin\obj\Debug\netcoreapp3.1\ChartWindow.baml
+C:\Users\dimap\OneDrive\Рабочий стол\бд курсач 2020\PGadmin\obj\Debug\netcoreapp3.1\datagrid.baml
+C:\Users\dimap\OneDrive\Рабочий стол\бд курсач 2020\PGadmin\obj\Debug\netcoreapp3.1\LoginWindow.baml
+C:\Users\dimap\OneDrive\Рабочий стол\бд курсач 2020\PGadmin\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\dimap\OneDrive\Рабочий стол\бд курсач 2020\PGadmin\obj\Debug\netcoreapp3.1\MyDialog.baml
+C:\Users\dimap\OneDrive\Рабочий стол\бд курсач 2020\PGadmin\obj\Debug\netcoreapp3.1\QueryWindow.baml
+C:\Users\dimap\OneDrive\Рабочий стол\бд курсач 2020\PGadmin\obj\Debug\netcoreapp3.1\BDcource2020.g.resources
+C:\Users\dimap\OneDrive\Рабочий стол\бд курсач 2020\PGadmin\obj\Debug\netcoreapp3.1\BDcource2020.AssemblyInfoInputs.cache
+C:\Users\dimap\OneDrive\Рабочий стол\бд курсач 2020\PGadmin\obj\Debug\netcoreapp3.1\BDcource2020.AssemblyInfo.cs
+C:\Users\dimap\OneDrive\Рабочий стол\бд курсач 2020\PGadmin\obj\Debug\netcoreapp3.1\BDcource2020.csproj.CopyComplete
+C:\Users\dimap\OneDrive\Рабочий стол\бд курсач 2020\PostgresD\bin\Debug\netcoreapp3.1\BDcource2020.exe
+C:\Users\dimap\OneDrive\Рабочий стол\бд курсач 2020\PostgresD\bin\Debug\netcoreapp3.1\BDcource2020.deps.json
+C:\Users\dimap\OneDrive\Рабочий стол\бд курсач 2020\PostgresD\bin\Debug\netcoreapp3.1\BDcource2020.runtimeconfig.json
+C:\Users\dimap\OneDrive\Рабочий стол\бд курсач 2020\PostgresD\bin\Debug\netcoreapp3.1\BDcource2020.runtimeconfig.dev.json
+C:\Users\dimap\OneDrive\Рабочий стол\бд курсач 2020\PostgresD\bin\Debug\netcoreapp3.1\BDcource2020.dll
+C:\Users\dimap\OneDrive\Рабочий стол\бд курсач 2020\PostgresD\bin\Debug\netcoreapp3.1\BDcource2020.pdb
+C:\Users\dimap\OneDrive\Рабочий стол\бд курсач 2020\PostgresD\bin\Debug\netcoreapp3.1\Bogus.dll
+C:\Users\dimap\OneDrive\Рабочий стол\бд курсач 2020\PostgresD\bin\Debug\netcoreapp3.1\ClosedXML.dll
+C:\Users\dimap\OneDrive\Рабочий стол\бд курсач 2020\PostgresD\bin\Debug\netcoreapp3.1\DocumentFormat.OpenXml.dll
+C:\Users\dimap\OneDrive\Рабочий стол\бд курсач 2020\PostgresD\bin\Debug\netcoreapp3.1\ExcelNumberFormat.dll
+C:\Users\dimap\OneDrive\Рабочий стол\бд курсач 2020\PostgresD\bin\Debug\netcoreapp3.1\LiveCharts.dll
+C:\Users\dimap\OneDrive\Рабочий стол\бд курсач 2020\PostgresD\bin\Debug\netcoreapp3.1\LiveCharts.Wpf.dll
+C:\Users\dimap\OneDrive\Рабочий стол\бд курсач 2020\PostgresD\bin\Debug\netcoreapp3.1\Microsoft.Office.Interop.Excel.dll
+C:\Users\dimap\OneDrive\Рабочий стол\бд курсач 2020\PostgresD\bin\Debug\netcoreapp3.1\Npgsql.dll
+C:\Users\dimap\OneDrive\Рабочий стол\бд курсач 2020\PostgresD\obj\Debug\netcoreapp3.1\BDcource2020.csprojAssemblyReference.cache
+C:\Users\dimap\OneDrive\Рабочий стол\бд курсач 2020\PostgresD\obj\Debug\netcoreapp3.1\ChartWindow.g.cs
+C:\Users\dimap\OneDrive\Рабочий стол\бд курсач 2020\PostgresD\obj\Debug\netcoreapp3.1\LoginWindow.g.cs
+C:\Users\dimap\OneDrive\Рабочий стол\бд курсач 2020\PostgresD\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\dimap\OneDrive\Рабочий стол\бд курсач 2020\PostgresD\obj\Debug\netcoreapp3.1\MyDialog.g.cs
+C:\Users\dimap\OneDrive\Рабочий стол\бд курсач 2020\PostgresD\obj\Debug\netcoreapp3.1\QueryWindow.g.cs
+C:\Users\dimap\OneDrive\Рабочий стол\бд курсач 2020\PostgresD\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\dimap\OneDrive\Рабочий стол\бд курсач 2020\PostgresD\obj\Debug\netcoreapp3.1\BDcource2020_MarkupCompile.cache
+C:\Users\dimap\OneDrive\Рабочий стол\бд курсач 2020\PostgresD\obj\Debug\netcoreapp3.1\BDcource2020_MarkupCompile.lref
+C:\Users\dimap\OneDrive\Рабочий стол\бд курсач 2020\PostgresD\obj\Debug\netcoreapp3.1\App.baml
+C:\Users\dimap\OneDrive\Рабочий стол\бд курсач 2020\PostgresD\obj\Debug\netcoreapp3.1\Buttons.baml
+C:\Users\dimap\OneDrive\Рабочий стол\бд курсач 2020\PostgresD\obj\Debug\netcoreapp3.1\ChartWindow.baml
+C:\Users\dimap\OneDrive\Рабочий стол\бд курсач 2020\PostgresD\obj\Debug\netcoreapp3.1\datagrid.baml
+C:\Users\dimap\OneDrive\Рабочий стол\бд курсач 2020\PostgresD\obj\Debug\netcoreapp3.1\LoginWindow.baml
+C:\Users\dimap\OneDrive\Рабочий стол\бд курсач 2020\PostgresD\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\dimap\OneDrive\Рабочий стол\бд курсач 2020\PostgresD\obj\Debug\netcoreapp3.1\MyDialog.baml
+C:\Users\dimap\OneDrive\Рабочий стол\бд курсач 2020\PostgresD\obj\Debug\netcoreapp3.1\QueryWindow.baml
+C:\Users\dimap\OneDrive\Рабочий стол\бд курсач 2020\PostgresD\obj\Debug\netcoreapp3.1\BDcource2020.g.resources
+C:\Users\dimap\OneDrive\Рабочий стол\бд курсач 2020\PostgresD\obj\Debug\netcoreapp3.1\BDcource2020.AssemblyInfoInputs.cache
+C:\Users\dimap\OneDrive\Рабочий стол\бд курсач 2020\PostgresD\obj\Debug\netcoreapp3.1\BDcource2020.AssemblyInfo.cs
+C:\Users\dimap\OneDrive\Рабочий стол\бд курсач 2020\PostgresD\obj\Debug\netcoreapp3.1\BDcource2020.csproj.CopyComplete
+C:\Users\dimap\OneDrive\Рабочий стол\бд курсач 2020\PostgresD\obj\Debug\netcoreapp3.1\BDcource2020.dll
+C:\Users\dimap\OneDrive\Рабочий стол\бд курсач 2020\PostgresD\obj\Debug\netcoreapp3.1\BDcource2020.pdb

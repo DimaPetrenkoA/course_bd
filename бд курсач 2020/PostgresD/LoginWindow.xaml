@@ -1,0 +1,52 @@
+﻿<Window x:Class="BDcource2020.LoginWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:BDcource2020"
+        mc:Ignorable="d"
+        WindowStyle="None"
+        FontFamily="Century Gothic"
+        ResizeMode="NoResize"
+        AllowsTransparency="True"
+        FontSize="18"
+        WindowStartupLocation = "CenterScreen"
+        Height="488" Width="367">
+    <DockPanel LastChildFill="True" Background="#FFEDEFF9">
+        <Grid MouseDown="Move_Window">
+            <Grid.Background>
+                <ImageBrush ImageSource="1111111111111111111111232323232323.jpg">
+                    <ImageBrush.RelativeTransform>
+                        <TransformGroup>
+                            <ScaleTransform CenterY="0.5" CenterX="0.5"/>
+                            <SkewTransform CenterY="0.5" CenterX="0.5"/>
+                            <RotateTransform CenterY="0.5" CenterX="0.5"/>
+                            <TranslateTransform/>
+                        </TransformGroup>
+                    </ImageBrush.RelativeTransform>
+                </ImageBrush>
+            </Grid.Background>
+
+            <Border Margin="45,0,45,158" Background="#B21D2647" CornerRadius="12,12,12,12" BorderThickness="6" Padding="4" Height="156" VerticalAlignment="Bottom">
+            </Border>
+
+
+            <Button x:Name="btn_authorization" Content="Авторизоваться" HorizontalAlignment="Center" Style="{DynamicResource MyButtonStyle}" Margin="0,0,0,35" Width="245" Height="40" VerticalAlignment="Bottom" Background="#BD71139C" Foreground="White" Click="btn_authorization_Click"/>
+            <TextBox x:Name="txb_login" HorizontalAlignment="Center" Margin="0,0,0,244" Text="admin" TextWrapping="NoWrap" VerticalContentAlignment="Center" Width="242" Height="30" VerticalAlignment="Bottom"/>
+            <PasswordBox x:Name="txb_password" HorizontalAlignment="Center" Margin="0,0,0,178" Password="admin" VerticalContentAlignment="Center" Width="242" Height="30" VerticalAlignment="Bottom"/>
+            <TextBlock HorizontalAlignment="Left" Margin="62,0,0,279" Text="Имя пользователя" TextWrapping="Wrap" Foreground="White" Height="22" VerticalAlignment="Bottom"/>
+            <TextBlock HorizontalAlignment="Left" Margin="62,0,0,213" Text="Пароль" TextWrapping="Wrap" Foreground="White" Height="22" VerticalAlignment="Bottom"/>
+            <Button x:Name="btn_exit" HorizontalAlignment="Left" Margin="331,5,0,0" Width="36" Style="{DynamicResource MyButtonStyle}" Background="#00000000" Click="btn_exit_Click" Height="32" VerticalAlignment="Top">
+                <Image Source="exit.png"/>
+            </Button>
+            <Button x:Name="btn_minimize" HorizontalAlignment="Left" Margin="295,5,0,0" Width="36" Style="{DynamicResource MyButtonStyle}" Background="#00000000" Click="btn_minimize_Click" Height="32" VerticalAlignment="Top">
+                <Image Source="minimize.png" OpacityMask="Black"/>
+            </Button>
+            <TextBlock HorizontalAlignment="Left" Margin="10,10,0,0" Text="Авторизуйтесь" TextWrapping="Wrap" VerticalAlignment="Top" Foreground="White"/>
+        </Grid>
+
+    </DockPanel>
+
+
+
+</Window>
